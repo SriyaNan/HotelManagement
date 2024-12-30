@@ -1,9 +1,1 @@
-# HOTEL-MANGEMENT-GUI-AND-NORMAL-PROGRAM-PYTHON-
-I have tried to computerize the hotel management system through my project.
-The project is written in Python 3 that uses OOPS concept ie it is based on object and classes.
-
-FOR THE GUI I HAVE USED TKINTER AND PAGE
-
-THE NORMAL CODE IS NAMED AS MAIN.PY
-
-TO RUN THE GUI JUST EXECUTE MAINLY.PY
+This project was done in the year 2020 for my final high school project, for computer science. It uses the python library tkinter to create GUI. It allows manager to book rooms, look at the guest lists, access the information of guests, check their final fee.
